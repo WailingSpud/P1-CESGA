@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include "rutinasCiclos.c"
 
-//L1d=3 MiB = 3,145,728 L1i = 2 MiB = 2,097,152 L1 = 5,242,880 TamLinea=64B       L2=80 MiB = 83,886,080          1MiB = 1,048,576 bytes
+//L1d=3 MiB = 3,145,728 L1i = 2 MiB = 2,097,152 L1 = 5,242,880 TamLinea=64B  L2=80 MiB = 83,886,080   1MiB = 1,048,576 bytes
 int S1= 81920;
 int S2= 1310720;
 
